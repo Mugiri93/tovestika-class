@@ -4,9 +4,8 @@
 
 class Mahasiswa:
 
-    def __init__(self, nama):
-        # simpan nama, dan siapkan daftar nilai yang masih kosong
-        pass
+    # buat method init yg menerima 1 parameter, nama
+    # buat juga daftar nilai kosong, lalu simpan ke variable self.nilai
 
     def tambah_nilai(self, n):
         # masukkan n ke daftar nilai
