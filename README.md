@@ -7,7 +7,6 @@ Pertemuan 7 · Foundry
 ## Yang Dikerjakan
 Copy `mahasiswa_placeholder.py` ke file baru `mahasiswa.py`.
 Ngoding di `mahasiswa.py`.
-```
 
 ## Menguji Sendiri
 
